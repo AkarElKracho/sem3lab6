@@ -1,0 +1,3 @@
+﻿  sem3lab6.cpp
+C:\Users\admin\source\repos\sem3lab6\sem3lab6\sem3lab6.cpp(299,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sem3lab6.vcxproj -> C:\Users\admin\source\repos\sem3lab6\x64\Debug\sem3lab6.exe
